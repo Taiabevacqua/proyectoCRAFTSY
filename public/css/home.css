@@ -26,6 +26,7 @@
 
 .home__main__section__article p {
     line-height: 1.3rem;
+    color: #000000;
 }
 
 /*aside tutoriales*/
@@ -101,6 +102,8 @@
         flex-direction: row;
     }
 }
+
+/*desktop*/
 
 @media (min-width: 1140px) {
     .home__main {
