@@ -55,8 +55,8 @@
     padding: 10px;
     display: flex;  /*pone de costado los items*/
     align-items: center;  /*alinea centra */
-    gap: 10px;
-    width: 100%;      /*separa los items, elementos "entre elementos" que le doy*/
+    gap: 10px;  /*separa los items, elementos "entre elementos" que le doy*/
+    width: 100%;      
     margin-bottom: 14px;
 }
 
